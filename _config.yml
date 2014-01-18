@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://nhatquang238.github.io
+title: Diary of Captain Moroon Cocoon
+subtitle: On startup, product design and life hack.
+author: Cocoon
 simple_search: http://google.com/search
-description:
+description: I blog about startup, product design and life hacks.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
