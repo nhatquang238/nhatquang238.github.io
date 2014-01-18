@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Casestudy | Diary of Captain Moroon Cocoon]]></title>
+  <link href="http://nhatquang238.github.io/blog/categories/casestudy/atom.xml" rel="self"/>
+  <link href="http://nhatquang238.github.io/"/>
+  <updated>2014-01-19T02:06:23+08:00</updated>
+  <id>http://nhatquang238.github.io/</id>
+  <author>
+    <name><![CDATA[Cocoon]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[A Case Study on Calendar Designing for Managers]]></title>
+    <link href="http://nhatquang238.github.io/blog/2013/12/24/a-case-study-on-calendar-designing-for-managers/"/>
+    <updated>2013-12-24T02:51:46+08:00</updated>
+    <id>http://nhatquang238.github.io/blog/2013/12/24/a-case-study-on-calendar-designing-for-managers</id>
+    <content type="html"><![CDATA[<h1>A case study about designing calendar page for managers.</h1>
+
+<h2>The situation</h2>
+
+<p>As a business student, I certainly do not act like one. Long gone the day I stick around school, do some HBR case studies and discuss group projects with my mates. Once I taste the triumphant feeling of building stuffs from scratch, especially after building the UI at the coolest online ticket platform in Vietnam, <a href="http://ticketbox.vn" title="ticketbox">ticketbox.vn</a>, there&rsquo;s no going back.</p>
+
+<p>So when opportunity presented itself, I immediately jumped and took a shot at part-time front-end/interface designing for another Singapore startup called Beensprout. This time, the focus is about social networking for non-profit organisations. My first task was to put together a calendar page for non-profit admin.</p>
+
+<p>A little bit background about Beensprout targeted users. There are two types of users: the organisers and the volunteers. The calendar page is mainly for organisers to manage different activities they have. Yet, even among organisers, there&rsquo;re different levels of authority. We have org admins, people who overlook the whole organisation&rsquo;s activity. We also have activity managers, who take care of specific activities within the organisation. At the lowest power level, we have event helpers whose tasks are to coordinate with activity managers to hold successful events.</p>
+
+<h2>Initial stupid sketching excitement</h2>
+
+<p>The calendar I was tasked to design targets at org admins. The general instruction from my boss was just to &ldquo;help them manage events&rdquo;. So with stupid enthusiasm, I popped open my <a href="http://www.fiftythree.com/paper" title="paper53">Paper53 app</a> and sketched some interesting ideas.</p>
+
+<p><img src="http://i.imgur.com/wJAKIKl.jpg" title="Version 1" alt="Version 1" /></p>
+
+<p><img src="http://i.imgur.com/ECySf1K.jpg" title="Version 2" alt="Version 2" /></p>
+
+<p>The idea behind prototype 1 was that org admins could color-code activities and filtered displayed activities using a tagging system. However, I quickly faced the problem of too many activities per day, which would rainbow-ize days with lots of activities, making it very difficult for users to tell what activities they have exactly.</p>
+
+<p>For the second prototype, I wanted to explore a different option where org admins could track the exact progress of each activity. This was achieved by not using a standard calendar but instead limiting the timeframe to a weekly basis and giving each activity a row of its own.</p>
+
+<p>Yet, after the sketching excitement was over, I realized my fatal mistakes: both options were made from my assumption about the users, without any input from real org admins.</p>
+
+<h2>Fix it or it just becomes another Dribbble shot.</h2>
+
+<p>To prevent the DRIBBBLISATION of design (Padday has an <a href="http://insideintercom.io/the-dribbblisation-of-design/">awesome post</a> about it), I took a step back and use what I learn from Ryan Singer of 37Signals when designing a web app. There were three high-level questions that I wanted to answer:</p>
+
+<ul>
+<li>What is the single task that the users are here for?</li>
+<li>How do users get to this page?</li>
+<li>What next after this step?</li>
+</ul>
+
+
+<p>The answer to the first question seemed simple: org admins wanted to &ldquo;manage&rdquo; all activities and the calendar page should help them to do that. But there&rsquo;s one thing I didn&rsquo;t understand: What did org admins mean when they said they wanted to &ldquo;manage&rdquo;? What activities were they involved in? Did they decide what time an activity should happen? If yes, at what level of time detail could they interfere? Week? Day? Hour? Different time perspectives would certainly affect how flexible the calendar should be.</p>
+
+<p>Seeing many potential questions similar to the one above, I decided to go back to the users for some chit chats. It turned out that my assumption about org admins wanting to look at detailed activities to help them schedule events was plain wrong. Scheduling activities was actually done by activity managers, which meant there would be a different calendar page for that.</p>
+
+<p>To org admins, what they care about was not how detailed the activities were displayed, which rendered both my prototypes useless. Rather org admins wanted to have an overview of how &ldquo;busy&rdquo; the organisations were. The org admins believed that the more activities an organisation had, which meant more days were filled up with events, the healthier the growth of the organization.</p>
+
+<p>For the second question, at that time, users could access the calendar page through a left hand side navigation via the &ldquo;Activities&rdquo; label, which my previous colleague had reserved when he built the page architect. But &ldquo;Activities&rdquo; didn&rsquo;t seem so clear to users about its functionality.</p>
+
+<p>Could the label change to &ldquo;Activities overview&rdquo;? And how else can org admins reached the calendar page? Could the calendar page be the landing page? Sort of like the dashboard in other web apps to provide an overview to users?</p>
+
+<p>For this I didn&rsquo;t really arrive at a good copy writing solution and had to leave it there for the moment. This was part of a bigger problem in navigation and I just didn&rsquo;t want to digress myself. A separate problem should deserve its own time and researches before proposing any fix. Thus, I would have to push the problem to parking zone and come back later.</p>
+
+<p>Then, there was still one big question left to answer: what should the users do next? Based on previous interviews, after the initial overview, org admins needed to chat with activity managers to check their event progress. Sometimes they needed to add a new activity and assign certain organisers to handle that activity. The UI then needed to facilitate org admins to find these tasks easily.</p>
+
+<p>Optimally, actions should be built-in to the context so that they provides a natural and smooth transition from task to task.</p>
+
+<h2>Final objectives &amp; design</h2>
+
+<p>With these inputs, I set out to decide my calendar page. Again, important ballpoints:</p>
+
+<ul>
+<li>Show healthy growth of the organisations through &ldquo;filled/busy&rdquo; days.</li>
+<li>Smart linking to next actions, including creating new activities, assigning organisers to activities, communicating to certain activity managers.</li>
+</ul>
+
+
+<p>Now that I have real user inputs, it becomes easier to create and justify which wireframes should be the final.</p>
+
+<p><img src="http://i.imgur.com/smT1tlZ.jpg" title="This prototype only shows days with event at a glance, the users can still checkout detailed activity with the search bar." alt="Version 3" /></p>
+
+<p>Another 2 iterations and I finally arrived at a <a href="murmuring-journey-2056.herokuapp.com">final prototype</a>, which is currently implemented at our Beensprout Beta page.</p>
+
+<p><img src="http://i.imgur.com/G54P3zY.jpg" title="Each day now owns a progress bar to show org admins how busy a day is." alt="Final prototype no search" /></p>
+
+<p><img src="http://i.imgur.com/Ys90QVu.jpg" title="Org admin can still track detailed activities for actions like contacting the current activity manager, checking out activity time for a surprise crash." alt="Final prototype with search" /></p>
+
+<p><em>Ps: the calendar styling is done with <a href="http://kylestetz.github.io/CLNDR/%20clndr.js">clndr.js</a>, a js plugin that allow you to flexibly define the calendar markup. I highly recommend this plugin for customized calendar design.</em></p>
+]]></content>
+  </entry>
+  
+</feed>

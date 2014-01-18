@@ -1,61 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!doctype html>
-<!-- START OF _layouts/default.html -->
-<html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" >
-		<meta content="width=device-width,initial-scale=1" name="viewport">
-		<meta content="I blog about startup, product design and life hacks." name="description">
-		<meta content="Diary of Captain Moroon Cocoon" name="author">
-		
-		<title>Diary of Captain Moroon Cocoon</title>
-		
-		<!-- Styles -->
-		<link href="/stylesheets/main.css" rel="stylesheet">
-		
-		<!-- Google webfonts -->
-		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
-		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Cousine">
-		
-		<!-- jQuery and plugins -->
-		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
-		<script src="/js/jquery.zclip.min.js"></script>
-		
-		<!-- Syntax highlighter -->
-		<link href="/stylesheets/prettify-hemisu.css" type="text/css" rel="stylesheet" />
-		<script type="text/javascript" src="/js/prettify.js"></script>
-		
-		<!--<link href="http://feeds.feedburner.com/turkeltaub" rel="alternate" title="Diary of Captain Moroon Cocoon" type="application/rss+xml" />-->
-		
-	</head>
-	<body onload="prettyPrint()">
-	
-		<div class="wrap">
-	
-			<header>
-				<div class="title">Diary of Captain Moroon Cocoon</div>
-				
-				<div class="navi">
-					<ul>
-						<li><a href="/">Blog</a></li>
-						<li><a href="/blog/archives">Archives</a></li>
-					</ul>
-				</div> <!-- // .navi -->
-			</header>
-		
-				<!-- START OF index.html -->
+  <title><![CDATA[Category: Negotiation | Diary of Captain Moroon Cocoon]]></title>
+  <link href="http://nhatquang238.github.io/blog/categories/negotiation/atom.xml" rel="self"/>
+  <link href="http://nhatquang238.github.io/"/>
+  <updated>2014-01-19T02:06:23+08:00</updated>
+  <id>http://nhatquang238.github.io/</id>
+  <author>
+    <name><![CDATA[Cocoon]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
-	
-		
-		<!-- START OF _includes/article.html -->
-<article>
-	<header>
-		<h1><a href="/blog/2014/01/19/audit-negotiation-and-design/">Audit negotiation &amp; design</a></h1>
-		<time>19 January 2014</time>
-	</header>
-		<div class="content">
-			<h1>The audit negotiation</h1>
+  
+  <entry>
+    <title type="html"><![CDATA[Audit Negotiation &amp; Design]]></title>
+    <link href="http://nhatquang238.github.io/blog/2014/01/19/audit-negotiation-and-design/"/>
+    <updated>2014-01-19T00:49:08+08:00</updated>
+    <id>http://nhatquang238.github.io/blog/2014/01/19/audit-negotiation-and-design</id>
+    <content type="html"><![CDATA[<h1>The audit negotiation</h1>
 
 <h2>Preparation in the black-art kingdom</h2>
 
@@ -91,7 +54,7 @@
 
 <p>I took a deep breath. That helped calming me down a bit. After that, I started telling her what I was most concern about and which issues I could be more lenient. She did become more opened and we quickly reach agreement on 4 issues. These 4 issues later turned out to be compatible issues and integrative issues. We got the best total outcomes for these problems!</p>
 
-<h2>Be patient, m&#8217;young lady!</h2>
+<h2>Be patient, m'young lady!</h2>
 
 <p>However, since time started to run out, she became more rushed and lost her calmness (which I believe is the only thing you shouldn&rsquo;t lose during a negotiation!). She looked more nervous and concerned about time than me. Thus, I knew that I could win this by refusing to comply to any of the 4 remaining issues and push these very near to the closing time.</p>
 
@@ -142,41 +105,15 @@
 <p>And when you reduce the number of terms you negotiate for, the whole game becomes simpler since you only have a few terms to focus on. However, as seen with the coffee simulation, it&rsquo;s harder for negotiators since they are fighting over scarer resources with lesser trade-offs available.</p>
 
 <blockquote><p>The best strategy is only achieved if you know what game you are playing.</p></blockquote>
-
-		</div>
-	<footer>
-		
-
-
-		
-
-
-
+]]></content>
+  </entry>
   
-		
-			Tagged under
-		
-    <a class='category' href='/blog/categories/design/'>Design</a>, <a class='category' href='/blog/categories/negotiation/'>Negotiation</a>
-	
-
-
-	
-	
-	</footer>
-	
-</article>
-<!-- END OF _includes/article.html -->
-
-	
-		
-		<!-- START OF _includes/article.html -->
-<article>
-	<header>
-		<h1><a href="/blog/2014/01/10/coffee-negotiation/">Coffee negotiation</a></h1>
-		<time>10 January 2014</time>
-	</header>
-		<div class="content">
-			<h1>On negotiation</h1>
+  <entry>
+    <title type="html"><![CDATA[Coffee Negotiation]]></title>
+    <link href="http://nhatquang238.github.io/blog/2014/01/10/coffee-negotiation/"/>
+    <updated>2014-01-10T03:04:06+08:00</updated>
+    <id>http://nhatquang238.github.io/blog/2014/01/10/coffee-negotiation</id>
+    <content type="html"><![CDATA[<h1>On negotiation</h1>
 
 <p>I had my first class on Negotiation topic today. It was quite a fun class. We spent almost an hour practice a real life negotiation scenario, in which I played the role of a coffee seller. My task was to sell 10.000 pounds of high quality coffee bean at the price of no less than $6.50/pound.</p>
 
@@ -211,219 +148,7 @@
 <p>But moreover, I believed that I should try my best to reach a win-win situation in a negotiation. Not only does it make me feel better ethically, but also does it create a better long-term relationship that would benefit my future negotiation. The other term in the deal was that my partner would deliver the coffee themselves. I believe that this is a lost on their business, which my company could have helped them and as a result create an even better relationship.</p>
 
 <p><em>At the end, I walked of winning but feeling like shit</em></p>
-
-		</div>
-	<footer>
-		
-
-
-		
-
-
-
+]]></content>
+  </entry>
   
-		
-			Tagged under
-		
-    <a class='category' href='/blog/categories/negotiation/'>Negotiation</a>
-	
-
-
-	
-	
-	</footer>
-	
-</article>
-<!-- END OF _includes/article.html -->
-
-	
-		
-		<!-- START OF _includes/article.html -->
-<article>
-	<header>
-		<h1><a href="/blog/2013/12/24/a-case-study-on-calendar-designing-for-managers/">A case study on calendar designing for managers</a></h1>
-		<time>24 December 2013</time>
-	</header>
-		<div class="content">
-			<h1>A case study about designing calendar page for managers.</h1>
-
-<h2>The situation</h2>
-
-<p>As a business student, I certainly do not act like one. Long gone the day I stick around school, do some HBR case studies and discuss group projects with my mates. Once I taste the triumphant feeling of building stuffs from scratch, especially after building the UI at the coolest online ticket platform in Vietnam, <a href="http://ticketbox.vn" title="ticketbox">ticketbox.vn</a>, there&rsquo;s no going back.</p>
-
-<p>So when opportunity presented itself, I immediately jumped and took a shot at part-time front-end/interface designing for another Singapore startup called Beensprout. This time, the focus is about social networking for non-profit organisations. My first task was to put together a calendar page for non-profit admin.</p>
-
-<p>A little bit background about Beensprout targeted users. There are two types of users: the organisers and the volunteers. The calendar page is mainly for organisers to manage different activities they have. Yet, even among organisers, there&rsquo;re different levels of authority. We have org admins, people who overlook the whole organisation&rsquo;s activity. We also have activity managers, who take care of specific activities within the organisation. At the lowest power level, we have event helpers whose tasks are to coordinate with activity managers to hold successful events.</p>
-
-<h2>Initial stupid sketching excitement</h2>
-
-<p>The calendar I was tasked to design targets at org admins. The general instruction from my boss was just to &ldquo;help them manage events&rdquo;. So with stupid enthusiasm, I popped open my <a href="http://www.fiftythree.com/paper" title="paper53">Paper53 app</a> and sketched some interesting ideas.</p>
-
-<p><img src="http://i.imgur.com/wJAKIKl.jpg" title="Version 1" alt="Version 1" /></p>
-
-<p><img src="http://i.imgur.com/ECySf1K.jpg" title="Version 2" alt="Version 2" /></p>
-
-<p>The idea behind prototype 1 was that org admins could color-code activities and filtered displayed activities using a tagging system. However, I quickly faced the problem of too many activities per day, which would rainbow-ize days with lots of activities, making it very difficult for users to tell what activities they have exactly.</p>
-
-<p>For the second prototype, I wanted to explore a different option where org admins could track the exact progress of each activity. This was achieved by not using a standard calendar but instead limiting the timeframe to a weekly basis and giving each activity a row of its own.</p>
-
-<p>Yet, after the sketching excitement was over, I realized my fatal mistakes: both options were made from my assumption about the users, without any input from real org admins.</p>
-
-<h2>Fix it or it just becomes another Dribbble shot.</h2>
-
-<p>To prevent the DRIBBBLISATION of design (Padday has an <a href="http://insideintercom.io/the-dribbblisation-of-design/">awesome post</a> about it), I took a step back and use what I learn from Ryan Singer of 37Signals when designing a web app. There were three high-level questions that I wanted to answer:</p>
-
-<ul>
-<li>What is the single task that the users are here for?</li>
-<li>How do users get to this page?</li>
-<li>What next after this step?</li>
-</ul>
-
-
-<p>The answer to the first question seemed simple: org admins wanted to &ldquo;manage&rdquo; all activities and the calendar page should help them to do that. But there&rsquo;s one thing I didn&rsquo;t understand: What did org admins mean when they said they wanted to &ldquo;manage&rdquo;? What activities were they involved in? Did they decide what time an activity should happen? If yes, at what level of time detail could they interfere? Week? Day? Hour? Different time perspectives would certainly affect how flexible the calendar should be.</p>
-
-<p>Seeing many potential questions similar to the one above, I decided to go back to the users for some chit chats. It turned out that my assumption about org admins wanting to look at detailed activities to help them schedule events was plain wrong. Scheduling activities was actually done by activity managers, which meant there would be a different calendar page for that.</p>
-
-<p>To org admins, what they care about was not how detailed the activities were displayed, which rendered both my prototypes useless. Rather org admins wanted to have an overview of how &ldquo;busy&rdquo; the organisations were. The org admins believed that the more activities an organisation had, which meant more days were filled up with events, the healthier the growth of the organization.</p>
-
-<p>For the second question, at that time, users could access the calendar page through a left hand side navigation via the &ldquo;Activities&rdquo; label, which my previous colleague had reserved when he built the page architect. But &ldquo;Activities&rdquo; didn&rsquo;t seem so clear to users about its functionality.</p>
-
-<p>Could the label change to &ldquo;Activities overview&rdquo;? And how else can org admins reached the calendar page? Could the calendar page be the landing page? Sort of like the dashboard in other web apps to provide an overview to users?</p>
-
-<p>For this I didn&rsquo;t really arrive at a good copy writing solution and had to leave it there for the moment. This was part of a bigger problem in navigation and I just didn&rsquo;t want to digress myself. A separate problem should deserve its own time and researches before proposing any fix. Thus, I would have to push the problem to parking zone and come back later.</p>
-
-<p>Then, there was still one big question left to answer: what should the users do next? Based on previous interviews, after the initial overview, org admins needed to chat with activity managers to check their event progress. Sometimes they needed to add a new activity and assign certain organisers to handle that activity. The UI then needed to facilitate org admins to find these tasks easily.</p>
-
-<p>Optimally, actions should be built-in to the context so that they provides a natural and smooth transition from task to task.</p>
-
-<h2>Final objectives &amp; design</h2>
-
-<p>With these inputs, I set out to decide my calendar page. Again, important ballpoints:</p>
-
-<ul>
-<li>Show healthy growth of the organisations through &ldquo;filled/busy&rdquo; days.</li>
-<li>Smart linking to next actions, including creating new activities, assigning organisers to activities, communicating to certain activity managers.</li>
-</ul>
-
-
-<p>Now that I have real user inputs, it becomes easier to create and justify which wireframes should be the final.</p>
-
-<p><img src="http://i.imgur.com/smT1tlZ.jpg" title="This prototype only shows days with event at a glance, the users can still checkout detailed activity with the search bar." alt="Version 3" /></p>
-
-<p>Another 2 iterations and I finally arrived at a <a href="murmuring-journey-2056.herokuapp.com">final prototype</a>, which is currently implemented at our Beensprout Beta page.</p>
-
-<p><img src="http://i.imgur.com/G54P3zY.jpg" title="Each day now owns a progress bar to show org admins how busy a day is." alt="Final prototype no search" /></p>
-
-<p><img src="http://i.imgur.com/Ys90QVu.jpg" title="Org admin can still track detailed activities for actions like contacting the current activity manager, checking out activity time for a surprise crash." alt="Final prototype with search" /></p>
-
-<p><em>Ps: the calendar styling is done with <a href="http://kylestetz.github.io/CLNDR/%20clndr.js">clndr.js</a>, a js plugin that allow you to flexibly define the calendar markup. I highly recommend this plugin for customized calendar design.</em></p>
-
-		</div>
-	<footer>
-		
-
-
-		
-
-
-
-  
-		
-			Tagged under
-		
-    <a class='category' href='/blog/categories/casestudy/'>Casestudy</a>, <a class='category' href='/blog/categories/product-design/'>Product Design</a>, <a class='category' href='/blog/categories/ux/'>UX</a>
-	
-
-
-	
-	
-	</footer>
-	
-</article>
-<!-- END OF _includes/article.html -->
-
-	
-		
-		<!-- START OF _includes/article.html -->
-<article>
-	<header>
-		<h1><a href="/blog/2013/12/24/moroon-cocoon-is-found-on-mearth/">Moroon Cocoon is found on M&#8217;Earth</a></h1>
-		<time>24 December 2013</time>
-	</header>
-		<div class="content">
-			<h1>Moroon Cocoon is found on M&#8217;Earth!</h1>
-
-<p>Test test test! Calling from the urban moron station! The world, can you hear me?</p>
-
-<p>This is captain Moroon Cocoon speaking from Company of One. If you see this post, it means I finally kick my ass hard enough to start blogging.</p>
-
-<p>From now on, the world is unlucky to receive the rant of another no name geek.</p>
-
-		</div>
-	<footer>
-		
-
-
-		
-
-
-
-
-	
-	
-	</footer>
-	
-</article>
-<!-- END OF _includes/article.html -->
-
-	
-	
-<div class="pagination">
-	
-	
-	<span class="total">1 of 1</span>
-	
-	
-</div>
-<!-- END OF index.html -->
-
-		
-			<footer>
-				Copyright &copy; 2014
-
-	Cocoon
-
-
-			</footer>
-			
-		</div> <!-- // .wrap -->
-	</body>
-	<script>
-		$(document).ready(function() {
-			// Make images center
-			$('p:has(img)').css('text-align', 'center');
-			
-			// Add the image's title attribute as a caption
-			$('p:has(img)').append(function () {
-				return '<div class="caption">' + ($('img', this).attr('title') || "") + '</div>';
-			});
-			
-			// Prettify code
-			$('code').addClass('prettyprint');
-			$('pre code').addClass('linenums');
-			
-			// Copy to clipboard with button
-			$('pre:has(code)').prepend(function(){
-				return '<div class="clip-btn">copy to clipboard</div>';
-			});
-			$('.clip-btn').zclip({
-				path:'/js/ZeroClipboard.swf',
-				copy: $(this).next('code').text(),
-				afterCopy: function(){
-					$(this).replaceWith('<div class="clip-btn">copied!');
-					}
-			});
-		});
-	</script>
-</html>
-<!-- END OF _layouts/default.html -->
+</feed>
